@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soldelotus
-- 👀 I’m interested in programming, art, cinema, gym and tarot
-- 🌱 I’m currently learning Java, Springboot, Bootstrap, SQL, Javascript/CSS/HTML, React and GIT
+- 👀 I’m interested in programming, art, cinema, gym and friends.
+- 🌱 I’m currently learning Java, Springboot, Bootstrap, SQL, Javascript/CSS/HTML, React, Vite, Python, Quality Assurance, React and GIT
 - 💞️ I’m looking to collaborate on any project, especially in back-end and Java language
 - 📫 How to reach me +55 (81)99930-6372 or sdelotus@gmail.com
 - 😄 Pronouns: he/she/they
